@@ -14,6 +14,7 @@ Create a basic weather application with the following features:
 
   - Use the `weather` component located in `components/weather`. It includes a `getCurrentWeatherByCity` method to query for the weather at a particular city.
 
+- An input field to search for a city
 - The city weather should display:
   - Location (city and country)
   - Weather status (cloudy, sunny, etc)

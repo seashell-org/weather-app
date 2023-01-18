@@ -20,6 +20,10 @@ Create a basic weather application with the following features:
   - Weather status (cloudy, sunny, etc)
   - Temperature (current, high, and low in any units)
 
+## Tips
+
+When testing the API, you can use your browser to test endpoints. For instance, typing `http://localhost:300/hello` in the browser will give you the results from the API endpoint.
+
 ## Getting Started
 
 First, run the development server:
